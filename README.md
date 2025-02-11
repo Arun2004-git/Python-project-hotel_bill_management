@@ -26,7 +26,7 @@ File Handling – Reads menu details and processes orders
 
 🔧 How to Run
 Clone the repository
-git clone https://github.com/your-username/Hotel_Bill_Management.git
+git clone https://github.com/Arun2004-git/Python-project-hotel_bill_management.git
 cd Hotel_Bill_Management
 
 Ensure Python is installed
